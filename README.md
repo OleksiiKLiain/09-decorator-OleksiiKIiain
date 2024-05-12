@@ -1,3 +1,7 @@
+![image](https://github.com/Ostroh-Academy/09-decorator-OleksiiKIiain/assets/91200447/9f7fa372-674e-44e5-a3d9-14c21e867596)
+
+
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6zBS7few)
 # Патерн декоратор (Decorator)
 
 - Потрібно вивчити теоретичний матеріал та написати власноруч приклад коду для патерну decorator. Деяку теоретичну інформацію можна почерпнути тут https://refactoring.guru/uk/design-patterns/decorator
